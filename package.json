@@ -1,0 +1,21 @@
+{
+  "name": "28pixcel",
+  "version": "1.0.0",
+  "description": "Pixel28 - We Craft Addictive Mobile Experiences",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": [
+    "mobile-games",
+    "game-studio",
+    "hybrid-casual"
+  ],
+  "author": "Pixel28",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
